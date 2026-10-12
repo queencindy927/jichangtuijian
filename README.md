@@ -1,5 +1,7 @@
 # 🧭 2026 六家机场选购清单｜便宜量大、低价IEPL、按量备用
 
+选机场，先想清楚自己是每天用，还是偶尔用。这里把月费、流量和使用门槛放在一起比较，按 **西游云 → Flybit → 飞鸟云 → 迅达 → 秒秒云 → 大哥云** 的顺序介绍。
+
 ## 先看省流
 
 | 你最看重什么 | 直接看这家 | 从哪一档开始 |
@@ -13,7 +15,7 @@
 | 顺序 | 服务 · 点击展开阅读 | 入门参考 | 选它的理由 |
 |---:|---|---|---|
 | 1 | [西游云](#xiyou) | ¥9/月 · 120GB | 便宜量大，16元档升级专线配置 |
-| 2 | [Flybit机场](#flybit) | ¥15/月 · 128GB | 低价IEPL，免费试用 |
+| 2 | [Flybit机场](#flybit) | ¥15/月 · 128GB | 低价IEPL，新用户2GB免费试用 |
 | 3 | [飞鸟云](#feiniaoyun) | ¥10/次 · 200GB常规包 | 按量计费，不限时，资料标注可叠加 |
 | 4 | [迅达](#xunda-vpn) | ¥15/月 · 150GB | 多客户端，月付与不限时包并存 |
 | 5 | [秒秒云](#miaomiao-cloud) | ¥14/月 · 128GB | 月付、年付特惠与不限时包 |
@@ -33,7 +35,7 @@
 
 把月费控制在十元以内，可以先看西游云的 **9元/月、120GB轻量型**。希望流量更多、设备更宽裕，再比较 **16元/月、200GB标准型**，资料标注精品专线、原生IP和家宽IP。
 
-<a href="https://e.xiyou666.xyz/?code=1GCdOUk0"><img src="https://img.shields.io/badge/%E8%A5%BF%E6%B8%B8%E4%BA%91-9%E5%85%83%E8%B5%B7%20%C2%B7%20%E6%9F%A5%E7%9C%8B%E5%A5%97%E9%A4%90%20%E2%86%92-059669?style=flat&amp;labelColor=064E3B" height="36" alt="注册西游云，9元起 · 查看套餐 →" /></a>
+<a href="https://e.xiyou666.xyz/?code=1GCdOUk0"><img src="https://img.shields.io/badge/%E8%A5%BF%E6%B8%B8%E4%BA%91-9%E5%85%83%E8%B5%B7%20%C2%B7%20%E6%9F%A5%E7%9C%8B%E5%A5%97%E9%A4%90%20%E2%86%92-059669?style=flat&amp;labelColor=064E3B" height="72" alt="注册西游云，9元起 · 查看套餐 →" /></a>
 
 **日常怎么选：** 先用9元月付档确认本地体验；需要精品专线或更多设备，再看16元标准型。流媒体和ChatGPT、Gemini支持来自套餐页面标注，购买前确认自己的常用节点。
 
@@ -59,13 +61,15 @@
 
 ## 02 / Flybit：15元IEPL，先用2GB再决定
 
-**🚀 IEPL专线 · 2GB免费试用**
+**🚀 IEPL专线 · 2GB免费试用 · 月付与不限时可选**
 
 想低价选到标注 **IEPL专线** 的套餐，Flybit的起步档是 **15元/月、128GB**，资料标注不限设备。既有月付，也有不限时流量包，适合先试再买。
 
-<a href="https://goflybit.com/#/register?code=0clljXHZ"><img src="https://img.shields.io/badge/Flybit-%E5%85%8D%E8%B4%B9%E8%AF%95%E7%94%A82GB%20%C2%B7%20%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C%20%E2%86%92-2563EB?style=flat&amp;labelColor=172554" height="36" alt="注册Flybit机场，免费试用2GB · 立即注册 →" /></a>
+<a href="https://goflybit.com/#/register?code=Ktmw5WLk"><img src="https://img.shields.io/badge/Flybit-%E5%85%8D%E8%B4%B9%E8%AF%95%E7%94%A82GB%20%C2%B7%20%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C%20%E2%86%92-2563EB?style=flat&amp;labelColor=172554" height="72" alt="注册Flybit机场，免费试用2GB · 立即注册 →" /></a>
 
 🎁 **新用户有2GB免费试用，觉得好用再下单。** 注册后导入订阅，试一下常用应用和晚高峰。
+
+试用是否开放、领取条件和套餐价格以会员中心与结算页面为准。
 
 **适合谁？** 第一次购买、希望先免费试一试的用户；需要多设备使用，或想兼顾月付主用与不限时备用的人。
 
@@ -82,7 +86,7 @@
 | 不限时-512G | **¥128/次** | 512GB不限时 | 不限；IEPL专线 |
 | 不限时-1024G | **¥238/次** | 1024GB不限时 | 不限；IEPL专线 |
 
-**买前留意：** 表内为优惠前标价。月付与一次性包的计费方式不同：一次性流量用完不会自动重置，购买前确认有效期与叠加规则。线路和流媒体、AI支持为服务方标注，建议利用试用先确认实际效果。
+**买前留意：** 表内为套餐参考价格。月付与一次性包的计费方式不同：一次性流量用完不会自动重置，购买前确认有效期与叠加规则。线路和流媒体、AI支持为服务方标注，建议利用试用先确认实际效果。
 
 ---
 
@@ -94,7 +98,7 @@
 
 如果每个月用量不固定，不想按月续费，飞鸟云的 **10元/次、200GB不限时流量包** 可以重点比较。还有 **15元400GB、20元600GB**，资料标注用完为止、重复购买可以叠加流量。
 
-<a href="https://feiniaoyun.xyz/#/register?code=F1BcowUV"><img src="https://img.shields.io/badge/%E9%A3%9E%E9%B8%9F%E4%BA%91-10%E5%85%83200GB%20%C2%B7%20%E6%9F%A5%E7%9C%8B%E6%8C%89%E9%87%8F%E5%A5%97%E9%A4%90%20%E2%86%92-D97706?style=flat&amp;labelColor=451A03" height="36" alt="注册飞鸟云，10元200GB · 查看按量套餐 →" /></a>
+<a href="https://feiniaoyun.xyz/#/register?code=F1BcowUV"><img src="https://img.shields.io/badge/%E9%A3%9E%E9%B8%9F%E4%BA%91-10%E5%85%83200GB%20%C2%B7%20%E6%9F%A5%E7%9C%8B%E6%8C%89%E9%87%8F%E5%A5%97%E9%A4%90%20%E2%86%92-D97706?style=flat&amp;labelColor=451A03" height="72" alt="注册飞鸟云，10元200GB · 查看按量套餐 →" /></a>
 
 **按量怎么选：** 用量较小先看10元200GB；需要多一点就看15元400GB或20元600GB。另有 **1元1GB付费体验包**，可以先确认网络是否适用，它不是免费试用。
 
@@ -134,7 +138,7 @@
 
 迅达从 **15元/月、150GB** 起，基础套支持5台设备同时使用。中高档提供更多流量和线路权限，还有300GB与1200GB不限时包，支持Clash、Shadowrocket、Stash、Surge等常见客户端。
 
-<a href="https://sulianproxy.com/register?code=OmenSc0K"><img src="https://img.shields.io/badge/%E8%BF%85%E8%BE%BE-%E6%9C%88%E4%BB%98%E6%88%96%E4%B8%8D%E9%99%90%E6%97%B6%20%C2%B7%20%E6%9F%A5%E7%9C%8B%E5%A5%97%E9%A4%90%20%E2%86%92-7C3AED?style=flat&amp;labelColor=2E1065" height="36" alt="注册迅达，月付或不限时 · 查看套餐 →" /></a>
+<a href="https://sulianproxy.com/register?code=OmenSc0K"><img src="https://img.shields.io/badge/%E8%BF%85%E8%BE%BE-%E6%9C%88%E4%BB%98%E6%88%96%E4%B8%8D%E9%99%90%E6%97%B6%20%C2%B7%20%E6%9F%A5%E7%9C%8B%E5%A5%97%E9%A4%90%20%E2%86%92-7C3AED?style=flat&amp;labelColor=2E1065" height="72" alt="注册迅达，月付或不限时 · 查看套餐 →" /></a>
 
 **入门怎么选：** 日常需求先比较15元基础套；用量更大再看35元300GB和50元600GB。线路权限随档位变化，先用短周期确认本地体验。
 
@@ -162,7 +166,7 @@
 
 秒秒云的常规月付从 **14元、128GB** 起，流量档位最高到1024GB/月；另有年付特惠和不限时包。商店标注中转高速节点、流媒体与GPT支持，可以按设备数和每月用量选档。
 
-<a href="https://dl2.mmy8.com/#/register?code=dUjEJXLh"><img src="https://img.shields.io/badge/%E7%A7%92%E7%A7%92%E4%BA%91-14%E5%85%83%E6%9C%88%E4%BB%98%E8%B5%B7%20%C2%B7%20%E6%9F%A5%E7%9C%8B%E5%A5%97%E9%A4%90%20%E2%86%92-E11D48?style=flat&amp;labelColor=4C0519" height="36" alt="注册秒秒云，14元月付起 · 查看套餐 →" /></a>
+<a href="https://dl2.mmy8.com/#/register?code=dUjEJXLh"><img src="https://img.shields.io/badge/%E7%A7%92%E7%A7%92%E4%BA%91-14%E5%85%83%E6%9C%88%E4%BB%98%E8%B5%B7%20%C2%B7%20%E6%9F%A5%E7%9C%8B%E5%A5%97%E9%A4%90%20%E2%86%92-E11D48?style=flat&amp;labelColor=4C0519" height="72" alt="注册秒秒云，14元月付起 · 查看套餐 →" /></a>
 
 **周期怎么选：** 先看14元月付，确认适合自己后再考虑年付。79元年付特惠为 **68GB/月、2台设备**，并不是14元月付套餐的同流量版本。
 
@@ -193,7 +197,7 @@
 
 大哥云公开资料标注运营约5年，提供月付、季付和年付套餐，**19.9元/月含100GB流量**。资料提及Trojan协议、IPLC线路以及流媒体和AI工具支持，适合希望比较老牌周期订阅服务的用户。
 
-<a href="https://aff01.zygbx.com/#/register?code=w0qPQH8R"><img src="https://img.shields.io/badge/%E5%A4%A7%E5%93%A5%E4%BA%91-19.9%E5%85%83%E6%9C%88%E4%BB%98%E8%B5%B7%20%C2%B7%20%E6%9F%A5%E7%9C%8B%E5%85%8D%E8%B4%B9%E8%AF%95%E7%94%A8%20%E2%86%92-B45309?style=flat&amp;labelColor=451A03" height="36" alt="注册大哥云，19.9元月付起 · 查看免费试用 →" /></a>
+<a href="https://aff01.zygbx.com/#/register?code=w0qPQH8R"><img src="https://img.shields.io/badge/%E5%A4%A7%E5%93%A5%E4%BA%91-19.9%E5%85%83%E6%9C%88%E4%BB%98%E8%B5%B7%20%C2%B7%20%E6%9F%A5%E7%9C%8B%E5%85%8D%E8%B4%B9%E8%AF%95%E7%94%A8%20%E2%86%92-B45309?style=flat&amp;labelColor=451A03" height="72" alt="注册大哥云，19.9元月付起 · 查看免费试用 →" /></a>
 
 🎁 **现有资料标注提供免费试用。** 注册后先确认当前领取条件，测试自己的常用节点和应用；觉得适合，再选择月付套餐。试用额度与活动是否开放以会员中心为准。
 
