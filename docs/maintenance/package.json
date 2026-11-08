@@ -1,0 +1,12 @@
+{
+  "name": "airport-recommendation-v17",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "check": "node check.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

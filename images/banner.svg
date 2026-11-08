@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">机场推荐与机场测评资料库</title>
+  <desc id="desc">12家机场，4类场景，月付与按量套餐对比。更新：2026-11。</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#17142d"/><stop offset="1" stop-color="#182a3b"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#b8a3ff"/><stop offset="1" stop-color="#80d8cf"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#b8a3ff" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <circle cx="1050" cy="150" r="90" fill="none" stroke="#80d8cf" stroke-opacity=".25"/>
+  <circle cx="1050" cy="150" r="60" fill="none" stroke="#b8a3ff" stroke-opacity=".4"/>
+  <circle cx="1050" cy="150" r="29" fill="#80d8cf" fill-opacity=".16"/>
+  <path d="M1050 150l60-60M1050 150h90M1050 150v-90" stroke="#80d8cf" stroke-opacity=".5" stroke-width="2"/>
+  <circle cx="1090" cy="110" r="5" fill="#80d8cf"/>
+  <g font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif">
+    <text x="60" y="94" fill="#f6f2ff" font-size="42" font-weight="700">机场推荐 · 机场测评资料库</text>
+    <text x="60" y="147" fill="#c8c9df" font-size="22">按预算、线路和用途选机场，比较月付与按量套餐。</text>
+    <g font-size="18" fill="#e9e1ff" text-anchor="middle" dominant-baseline="middle">
+      <rect x="60" y="194" width="174" height="44" rx="22" fill="#b8a3ff" fill-opacity=".13"/>
+      <text x="147" y="216">12 家机场清单</text>
+      <rect x="250" y="194" width="174" height="44" rx="22" fill="#b8a3ff" fill-opacity=".13"/>
+      <text x="337" y="216">4 类场景推荐</text>
+      <rect x="440" y="194" width="174" height="44" rx="22" fill="#80d8cf" fill-opacity=".13"/>
+      <text x="527" y="216">套餐横向对比</text>
+      <rect x="630" y="194" width="210" height="44" rx="22" fill="#80d8cf" fill-opacity=".13"/>
+      <text x="735" y="216">更新：2026-11</text>
+    </g>
+  </g>
+</svg>

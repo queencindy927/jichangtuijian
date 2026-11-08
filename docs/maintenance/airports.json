@@ -1,0 +1,1406 @@
+{
+  "meta": {
+    "edition": "v17",
+    "assembled": "2026-11-08",
+    "currency": "CNY",
+    "scope": "独立推广资料库；顺序仅适用于本版本，不修改主网站榜单。",
+    "price_note": "编排日期不代表核价日期；价格与服务规则以下单页面为准。",
+    "affiliate_note": "页面含邀请链接，通过链接注册可能为维护者带来返佣，不增加用户购买价格。"
+  },
+  "airports": [
+    {
+      "id": "flybit",
+      "order": 1,
+      "name": "Flybit",
+      "emoji": "🚀",
+      "headline": "15元IEPL，月付与按量都能选",
+      "intro": "Flybit提供128GB至512GB月付，以及128GB至1024GB不限时流量包。套餐标注IEPL专线、不限设备，适合希望把月费、线路和使用频率一起比较的用户。",
+      "focus": "IEPL资料标注 · 多设备 · 月付与不限时",
+      "audience": "日常手机、电脑多设备使用，以及需要按量流量备用的用户。",
+      "advice": "主用先看15元128GB月付；偶尔使用先比较36元128GB不限时。用量稳定后，再考虑256GB或512GB档。",
+      "questions": [
+        "确认常用地区、协议和客户端能否配合使用。",
+        "不限时包按总量扣除，用完不会按月自动重置。",
+        "核对叠加方式、退款条件与当前节点规则。"
+      ],
+      "route": "套餐标注IEPL专线",
+      "client": "资料收录Clash、Shadowrocket、V2Ray等客户端，按后台协议与教程核对。",
+      "featured": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "referral_url": "https://goflybit.com/register?code=m4qRDLA1",
+      "source_note": "项目当前data/airports.json套餐资料；本次沿用已收录规格，未重新核价。",
+      "source_date": "2026-07-26",
+      "plans": [
+        {
+          "name": "每月-128G",
+          "price": 15,
+          "billing": "月付",
+          "traffic": "128GB/月",
+          "devices": "不限",
+          "route": "IEPL专线",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "每月-192G",
+          "price": 22,
+          "billing": "月付",
+          "traffic": "192GB/月",
+          "devices": "不限",
+          "route": "IEPL专线",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "每月-256G",
+          "price": 28,
+          "billing": "月付",
+          "traffic": "256GB/月",
+          "devices": "不限",
+          "route": "IEPL专线",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "每月-512G",
+          "price": 52,
+          "billing": "月付",
+          "traffic": "512GB/月",
+          "devices": "不限",
+          "route": "IEPL专线",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "不限时-128G",
+          "price": 36,
+          "billing": "一次性",
+          "traffic": "128GB不限时",
+          "devices": "不限",
+          "route": "IEPL专线",
+          "kind": "one-time",
+          "stars": 5
+        },
+        {
+          "name": "不限时-256G",
+          "price": 68,
+          "billing": "一次性",
+          "traffic": "256GB不限时",
+          "devices": "不限",
+          "route": "IEPL专线",
+          "kind": "one-time",
+          "stars": 4
+        },
+        {
+          "name": "不限时-512G",
+          "price": 128,
+          "billing": "一次性",
+          "traffic": "512GB不限时",
+          "devices": "不限",
+          "route": "IEPL专线",
+          "kind": "one-time",
+          "stars": 4
+        },
+        {
+          "name": "不限时-1024G",
+          "price": 238,
+          "billing": "一次性",
+          "traffic": "1024GB不限时",
+          "devices": "不限",
+          "route": "IEPL专线",
+          "kind": "one-time",
+          "stars": 4
+        }
+      ],
+      "image": {
+        "webp": "images/webp/01-flybit-Flybit.webp",
+        "jpg": "images/jpg/01-flybit-Flybit.jpg"
+      }
+    },
+    {
+      "id": "xiyou",
+      "order": 2,
+      "name": "西游云",
+      "emoji": "🍜",
+      "headline": "9元120GB起，16元档再看精品专线",
+      "intro": "西游云适合预算优先的日常使用：9元轻量型提供120GB/月，16元标准型增加流量、设备数量和精品专线权限，也有一次性不限时包。",
+      "focus": "低月费 · 大流量 · 分档专线",
+      "audience": "月度预算较低，或希望从普通月付升级到精品专线的用户。",
+      "advice": "先比较9元120GB和16元200GB。轻量型月付不含高速精品专线；在意专线和家宽资料时，重点核对标准型。",
+      "questions": [
+        "同名轻量型月付与年付的节点权限不同。",
+        "高能型月付限12台设备，年付资料标注不限设备。",
+        "客户端协议、流量重置与不限时叠加规则需另行确认。"
+      ],
+      "route": "月付轻量型不含高速精品专线；标准型及以上标注精品IEPL",
+      "client": "已收录资料未列完整协议清单，注册前确认设备和订阅格式。",
+      "featured": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6
+      ],
+      "referral_url": "https://e.xiyou666.xyz/?code=s7S4hVxm",
+      "source_note": "维护者已有西游云套餐文字与独立资料评测；本次未重新核价。",
+      "source_date": null,
+      "plans": [
+        {
+          "name": "轻量型",
+          "price": 9,
+          "billing": "月付",
+          "traffic": "120GB/月",
+          "devices": "5台",
+          "route": "20个节点 · 不含高速精品专线",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "标准型",
+          "price": 16,
+          "billing": "月付",
+          "traffic": "200GB/月",
+          "devices": "8台",
+          "route": "50个节点 · 精品IEPL、原生IP与家宽IP标注",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "高能型",
+          "price": 38,
+          "billing": "月付",
+          "traffic": "500GB/月",
+          "devices": "12台",
+          "route": "80个节点 · 精品IEPL标注",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "轻量型（年付）",
+          "price": 90,
+          "billing": "年付",
+          "traffic": "120GB/月，共12个月",
+          "devices": "5台",
+          "route": "20个节点 · 精品IEPL标注",
+          "kind": "annual",
+          "stars": 2
+        },
+        {
+          "name": "高能型（年付）",
+          "price": 290,
+          "billing": "年付",
+          "traffic": "500GB/月，共12个月",
+          "devices": "不限设备（资料标注）",
+          "route": "80个节点 · 精品IEPL标注",
+          "kind": "annual",
+          "stars": 2
+        },
+        {
+          "name": "标准型不限时",
+          "price": 98,
+          "billing": "一次性",
+          "traffic": "300GB总量",
+          "devices": "12台",
+          "route": "80个节点 · 精品IEPL标注",
+          "kind": "one-time",
+          "stars": 5
+        },
+        {
+          "name": "高能型不限时",
+          "price": 159,
+          "billing": "一次性",
+          "traffic": "600GB总量",
+          "devices": "30台",
+          "route": "80个节点 · 精品IEPL标注",
+          "kind": "one-time",
+          "stars": 4
+        }
+      ],
+      "image": {
+        "webp": "images/webp/02-xiyou-西游云.webp",
+        "jpg": "images/jpg/02-xiyou-西游云.jpg"
+      }
+    },
+    {
+      "id": "cocoduck",
+      "order": 3,
+      "name": "CocoDuck",
+      "emoji": "🦆",
+      "headline": "家宽落地与节点配置方向",
+      "intro": "CocoDuck常规套餐17元/月100GB起，商店标注开放全部节点、不限连接速度和设备数量。来源资料提及海外团队、BGP中转与家宽落地，适合更关注节点配置的人。",
+      "focus": "家宽落地方向 · 全部节点 · 不限设备",
+      "audience": "希望比较家宽落地、AI与流媒体需求，并关注多设备使用的用户。",
+      "advice": "从17元100GB或31元200GB常规月付开始比较。77元迷你鸭是全年总价、每月40GB；加油包必须搭配常规套餐。",
+      "questions": [
+        "家宽、地区与平台支持按具体节点核对。",
+        "加油包不等于可独立购买的不限时订阅。",
+        "家庭、团队是套餐名称，账号共享规则仍需确认。"
+      ],
+      "route": "资料提及BGP中转、家宽落地；不将其写成已核实的IEPL",
+      "client": "资料收录Android客户端及Clash、Shadowrocket、V2rayNG等订阅方式，具体按后台教程。",
+      "featured": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "referral_url": "https://www.cocoduck.site/auth/register?code=e2c254b876",
+      "source_note": "项目当前data/airports.json套餐资料；本次沿用已收录规格，未重新核价。",
+      "source_date": "2026-10-09",
+      "plans": [
+        {
+          "name": "个人套餐",
+          "price": 17,
+          "billing": "月付",
+          "traffic": "100GB/月",
+          "devices": "不限（商店标注）",
+          "route": "全部节点 · 不限速 · AI与流媒体支持（商店标注）",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "精英套餐",
+          "price": 31,
+          "billing": "月付",
+          "traffic": "200GB/月",
+          "devices": "不限（商店标注）",
+          "route": "全部节点 · 不限速 · AI与流媒体支持（商店标注）",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "家庭套餐",
+          "price": 75,
+          "billing": "月付",
+          "traffic": "500GB/月",
+          "devices": "不限（商店标注）",
+          "route": "全部节点 · 不限速 · AI与流媒体支持（商店标注）",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "团队套餐",
+          "price": 115,
+          "billing": "月付",
+          "traffic": "1000GB/月",
+          "devices": "不限（商店标注）",
+          "route": "全部节点 · 不限速 · AI与流媒体支持（商店标注）",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "迷你鸭77",
+          "price": 77,
+          "billing": "年付",
+          "traffic": "40GB/月，共12个月",
+          "devices": "不限（商店标注）",
+          "route": "全部节点 · 不限速 · 年付总价77元，非月付价格",
+          "kind": "annual",
+          "stars": 2
+        },
+        {
+          "name": "流量加油包 - 50GB",
+          "price": 10,
+          "billing": "加油包",
+          "traffic": "增加50GB流量，需配合常规套餐",
+          "devices": "沿用常规套餐规则",
+          "route": "无其他套餐时请勿购买 · 有效期和叠加规则以官网为准",
+          "kind": "addon",
+          "stars": null
+        },
+        {
+          "name": "流量加油包 - 100GB",
+          "price": 20,
+          "billing": "加油包",
+          "traffic": "增加100GB流量，需配合常规套餐",
+          "devices": "沿用常规套餐规则",
+          "route": "无其他套餐时请勿购买 · 有效期和叠加规则以官网为准",
+          "kind": "addon",
+          "stars": null
+        },
+        {
+          "name": "流量加油包 - 500GB",
+          "price": 100,
+          "billing": "加油包",
+          "traffic": "增加500GB流量，需配合常规套餐",
+          "devices": "沿用常规套餐规则",
+          "route": "无其他套餐时请勿购买 · 有效期和叠加规则以官网为准",
+          "kind": "addon",
+          "stars": null
+        },
+        {
+          "name": "流量加油包 - 1000GB",
+          "price": 200,
+          "billing": "加油包",
+          "traffic": "增加1000GB流量，需配合常规套餐",
+          "devices": "沿用常规套餐规则",
+          "route": "无其他套餐时请勿购买 · 有效期和叠加规则以官网为准",
+          "kind": "addon",
+          "stars": null
+        }
+      ],
+      "image": {
+        "webp": "images/webp/03-cocoduck-CocoDuck.webp",
+        "jpg": "images/jpg/03-cocoduck-CocoDuck.jpg"
+      }
+    },
+    {
+      "id": "xingchen-cloud",
+      "order": 4,
+      "name": "星辰云（星辰机场）",
+      "emoji": "✨",
+      "headline": "8元入门，重点比较9.9元与17元档",
+      "intro": "星辰云提供月付、季付、半年付、年付与不限时包。最低8元80GB月付限2台设备；日常更推荐比较9.9元100GB或17元200GB标准版，后者标注IEPL、原生IP与家宽IP。",
+      "focus": "低价大流量 · 17元IEPL · 多种周期",
+      "audience": "需要低价月付，或希望用17元左右预算比较家宽与IEPL资料的用户。",
+      "advice": "单设备轻量用途可看8元档；更常用优先比较9.9元入门版。关心IEPL与家宽时看17元标准版，不把低价档默认当作专线档。",
+      "questions": [
+        "8元初级版限2台设备且不提供客服支持。",
+        "9.9元入门版月付不包含高端专线，季付和年付权限另行核对。",
+        "不限时流量与月付额度分别计算。"
+      ],
+      "route": "17元及以上月付标注IEPL、原生IP与家宽IP；低价档不含",
+      "client": "资料列出多个系统，具体协议、客户端与订阅格式以下单后台为准。",
+      "featured": [
+        0,
+        1,
+        2,
+        5,
+        10,
+        11
+      ],
+      "referral_url": "https://xc1.luniu8.com/?code=det68imC",
+      "source_note": "项目当前data/airports.json套餐资料；本次沿用已收录规格，未重新核价。",
+      "source_date": "2026-08-11",
+      "plans": [
+        {
+          "name": "初级版",
+          "price": 8,
+          "billing": "月付",
+          "traffic": "80GB/月",
+          "devices": "2台",
+          "route": "最高100Mbps，无高端专线",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "入门版",
+          "price": 9.9,
+          "billing": "月付",
+          "traffic": "100GB/月",
+          "devices": "不限设备",
+          "route": "最高200Mbps，无高端专线",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "标准版",
+          "price": 17,
+          "billing": "月付",
+          "traffic": "200GB/月",
+          "devices": "不限设备",
+          "route": "IEPL专线，最高300Mbps",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "VIP版",
+          "price": 30,
+          "billing": "月付",
+          "traffic": "450GB/月",
+          "devices": "不限设备",
+          "route": "IEPL专线，最高400Mbps",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "至尊版",
+          "price": 50,
+          "billing": "月付",
+          "traffic": "800GB/月",
+          "devices": "不限设备",
+          "route": "IEPL专线，最高500Mbps",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "标准版（季度）",
+          "price": 48,
+          "billing": "季付",
+          "traffic": "200GB/月",
+          "devices": "不限设备",
+          "route": "IEPL专线，最高300Mbps",
+          "kind": "quarterly",
+          "stars": 4
+        },
+        {
+          "name": "VIP版（季度）",
+          "price": 88,
+          "billing": "季付",
+          "traffic": "450GB/月，共3个月",
+          "devices": "不限设备",
+          "route": "IEPL专线，最高400Mbps",
+          "kind": "quarterly",
+          "stars": 4
+        },
+        {
+          "name": "入门版（半年送1个月）",
+          "price": 59,
+          "billing": "半年付",
+          "traffic": "100GB/月，共7个月",
+          "devices": "不限设备",
+          "route": "最高200Mbps",
+          "kind": "half-year",
+          "stars": null
+        },
+        {
+          "name": "入门版（年付）",
+          "price": 99,
+          "billing": "年付",
+          "traffic": "100GB/月",
+          "devices": "不限设备",
+          "route": "IEPL专线，最高200Mbps",
+          "kind": "annual",
+          "stars": 2
+        },
+        {
+          "name": "至尊天皇（年付）",
+          "price": 459,
+          "billing": "年付",
+          "traffic": "800GB/月",
+          "devices": "不限设备",
+          "route": "IEPL专线，不限速",
+          "kind": "annual",
+          "stars": 2
+        },
+        {
+          "name": "不限时流量-B版",
+          "price": 98,
+          "billing": "一次性",
+          "traffic": "300GB不限时",
+          "devices": "不限设备",
+          "route": "IEPL专线，最高400Mbps",
+          "kind": "one-time",
+          "stars": 5
+        },
+        {
+          "name": "不限时流量-C版",
+          "price": 199,
+          "billing": "一次性",
+          "traffic": "1000GB不限时",
+          "devices": "不限设备",
+          "route": "IEPL专线，最高500Mbps",
+          "kind": "one-time",
+          "stars": 4
+        }
+      ],
+      "image": {
+        "webp": "images/webp/04-xingchen-星辰云.webp",
+        "jpg": "images/jpg/04-xingchen-星辰云.jpg"
+      }
+    },
+    {
+      "id": "feiniao-speed",
+      "order": 5,
+      "name": "飞鸟加速",
+      "emoji": "🪽",
+      "headline": "15元150GB，跨境专线资料标注",
+      "intro": "飞鸟加速提供四档月付与两档不限时包，15元/月150GB起。商店标注跨境高速专线、多设备同时使用，适合先按月度额度选择，再比较备用流量的人。",
+      "focus": "跨境专线标注 · 多设备 · 月付与不限时",
+      "audience": "需要约150GB起月度流量，或希望手机、电脑切换使用的用户。",
+      "advice": "主用从15元150GB开始看；流量较多再比较25元260GB、35元370GB。备用可看99元300GB一次性包。",
+      "questions": [
+        "多设备使用未提供数量上限，不等于无限设备或允许共享。",
+        "协议、实际专线类型与完整节点地区尚未完整收录。",
+        "飞鸟加速和飞鸟云是不同服务，不混用入口与套餐。"
+      ],
+      "route": "商店标注跨境高速专线，具体线路类型未明确",
+      "client": "资料列出iOS、Android、Windows、macOS等系统，具体协议与客户端待后台确认。",
+      "featured": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "referral_url": "https://www.112112789.xyz/?code=n1zhm5HP",
+      "source_note": "维护者提供的data/data_1024.txt商店文字及飞鸟加速独立资料评测；不采用后附旧介绍的未核实规格。",
+      "source_date": "2026-10-24",
+      "plans": [
+        {
+          "name": "基础版-县令",
+          "price": 15,
+          "billing": "月付",
+          "traffic": "150GB/月",
+          "devices": "可多设备，数量上限待确认",
+          "route": "跨境高速专线（商店标注）",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "进阶版-知府",
+          "price": 25,
+          "billing": "月付",
+          "traffic": "260GB/月",
+          "devices": "可多设备，数量上限待确认",
+          "route": "跨境高速专线（商店标注）",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "高阶版-巡抚",
+          "price": 35,
+          "billing": "月付",
+          "traffic": "370GB/月",
+          "devices": "可多设备，数量上限待确认",
+          "route": "跨境高速专线（商店标注）",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "专业版-总督",
+          "price": 45,
+          "billing": "月付",
+          "traffic": "480GB/月",
+          "devices": "可多设备，数量上限待确认",
+          "route": "跨境高速专线（商店标注）",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "畅想流量包--300G",
+          "price": 99,
+          "billing": "一次性",
+          "traffic": "300GB总量，不限时",
+          "devices": "数量上限待确认",
+          "route": "跨境高速专线（商店标注）",
+          "kind": "one-time",
+          "stars": 5
+        },
+        {
+          "name": "畅想流量包--800G",
+          "price": 199,
+          "billing": "一次性",
+          "traffic": "800GB总量，不限时",
+          "devices": "数量上限待确认",
+          "route": "跨境高速专线（商店标注）",
+          "kind": "one-time",
+          "stars": 4
+        }
+      ],
+      "image": {
+        "webp": "images/webp/05-feiniao-speed-飞鸟加速.webp",
+        "jpg": "images/jpg/05-feiniao-speed-飞鸟加速.jpg"
+      }
+    },
+    {
+      "id": "feiniaoyun",
+      "order": 6,
+      "name": "飞鸟云",
+      "emoji": "🪶",
+      "headline": "10元200GB按量包，先确认IPv6配置",
+      "intro": "飞鸟云收录月付、年付与按量不限时方案。常规不限时包10元200GB起，资料对应Hysteria2并要求自行配置IPv6，适合愿意阅读教程和处理客户端配置的用户。",
+      "focus": "低价按量 · Hysteria2 · 需自行配置IPv6",
+      "audience": "有配置经验，希望小额购买按量流量作为备用的用户。",
+      "advice": "按量先比较10元200GB和15元400GB。月付与不限时可能有相同价格和额度数字，但发放方式不同；先确认网络能完成IPv6配置。",
+      "questions": [
+        "现有资料注明购买后不退款。",
+        "12元年付50GB/月是全年总价，不是可按1元月付购买。",
+        "重复购买叠加规则与每月重置时间需在后台确认。"
+      ],
+      "route": "Hysteria2方案，需自行配置IPv6",
+      "client": "需要支持Hysteria2的客户端，并确认IPv6配置；不能只按软件名称判断可用。",
+      "featured": [
+        6,
+        7,
+        9,
+        10,
+        11,
+        0
+      ],
+      "referral_url": "https://feiniaoyun.xyz/#/register?code=F1BcowUV",
+      "source_note": "项目既有v11至v16文章中的飞鸟云套餐与配置记录；本次未重新核价。",
+      "source_date": null,
+      "plans": [
+        {
+          "name": "传家宝",
+          "price": 12,
+          "billing": "年付",
+          "traffic": "50GB/月，共12个月",
+          "devices": "不限设备（资料标注）",
+          "route": "Hysteria2 · 需自行配置IPv6 · 不退款",
+          "kind": "annual",
+          "stars": 2
+        },
+        {
+          "name": "传家宝（两年付）",
+          "price": 20,
+          "billing": "两年付",
+          "traffic": "50GB/月，共24个月",
+          "devices": "不限设备（资料标注）",
+          "route": "Hysteria2 · 需自行配置IPv6 · 不退款",
+          "kind": "biennial",
+          "stars": null
+        },
+        {
+          "name": "传家宝加大版",
+          "price": 24,
+          "billing": "年付",
+          "traffic": "100GB/月，共12个月",
+          "devices": "不限设备（资料标注）",
+          "route": "Hysteria2 · 需自行配置IPv6 · 不退款",
+          "kind": "annual",
+          "stars": 2
+        },
+        {
+          "name": "传家宝加大版（两年付）",
+          "price": 40,
+          "billing": "两年付",
+          "traffic": "100GB/月，共24个月",
+          "devices": "不限设备（资料标注）",
+          "route": "Hysteria2 · 需自行配置IPv6 · 不退款",
+          "kind": "biennial",
+          "stars": null
+        },
+        {
+          "name": "传家宝超大版",
+          "price": 48,
+          "billing": "年付",
+          "traffic": "200GB/月，共12个月",
+          "devices": "不限设备（资料标注）",
+          "route": "Hysteria2 · 需自行配置IPv6 · 不退款",
+          "kind": "annual",
+          "stars": 2
+        },
+        {
+          "name": "传家宝超大版（两年付）",
+          "price": 80,
+          "billing": "两年付",
+          "traffic": "200GB/月，共24个月",
+          "devices": "不限设备（资料标注）",
+          "route": "Hysteria2 · 需自行配置IPv6 · 不退款",
+          "kind": "biennial",
+          "stars": null
+        },
+        {
+          "name": "月付200G",
+          "price": 10,
+          "billing": "月付",
+          "traffic": "200GB/月",
+          "devices": "不限设备（资料标注）",
+          "route": "Hysteria2 · 需自行配置IPv6 · 不退款",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "月付400G",
+          "price": 15,
+          "billing": "月付",
+          "traffic": "400GB/月",
+          "devices": "不限设备（资料标注）",
+          "route": "Hysteria2 · 需自行配置IPv6 · 不退款",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "月付600G",
+          "price": 20,
+          "billing": "月付",
+          "traffic": "600GB/月",
+          "devices": "不限设备（资料标注）",
+          "route": "Hysteria2 · 需自行配置IPv6 · 不退款",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "不限时200G",
+          "price": 10,
+          "billing": "一次性",
+          "traffic": "200GB总量，用完为止",
+          "devices": "不限设备（资料标注）",
+          "route": "Hysteria2 · 需自行配置IPv6 · 不退款",
+          "kind": "one-time",
+          "stars": 5
+        },
+        {
+          "name": "不限时400G",
+          "price": 15,
+          "billing": "一次性",
+          "traffic": "400GB总量，用完为止",
+          "devices": "不限设备（资料标注）",
+          "route": "Hysteria2 · 需自行配置IPv6 · 不退款",
+          "kind": "one-time",
+          "stars": 4
+        },
+        {
+          "name": "不限时600G",
+          "price": 20,
+          "billing": "一次性",
+          "traffic": "600GB总量，用完为止",
+          "devices": "不限设备（资料标注）",
+          "route": "Hysteria2 · 需自行配置IPv6 · 不退款",
+          "kind": "one-time",
+          "stars": 4
+        },
+        {
+          "name": "不限时1200G",
+          "price": 40,
+          "billing": "一次性",
+          "traffic": "1200GB总量，用完为止",
+          "devices": "不限设备（资料标注）",
+          "route": "Hysteria2 · 需自行配置IPv6 · 不退款",
+          "kind": "one-time",
+          "stars": 4
+        },
+        {
+          "name": "不限时2400G",
+          "price": 80,
+          "billing": "一次性",
+          "traffic": "2400GB总量，用完为止",
+          "devices": "不限设备（资料标注）",
+          "route": "Hysteria2 · 需自行配置IPv6 · 不退款",
+          "kind": "one-time",
+          "stars": 4
+        },
+        {
+          "name": "不限时5000G",
+          "price": 150,
+          "billing": "一次性",
+          "traffic": "5000GB总量，用完为止",
+          "devices": "不限设备（资料标注）",
+          "route": "Hysteria2 · 需自行配置IPv6 · 不退款",
+          "kind": "one-time",
+          "stars": 4
+        },
+        {
+          "name": "不限时10000G",
+          "price": 300,
+          "billing": "一次性",
+          "traffic": "10000GB总量，用完为止",
+          "devices": "不限设备（资料标注）",
+          "route": "Hysteria2 · 需自行配置IPv6 · 不退款",
+          "kind": "one-time",
+          "stars": 4
+        },
+        {
+          "name": "付费体验1G",
+          "price": 1,
+          "billing": "一次性体验",
+          "traffic": "1GB总量",
+          "devices": "不限设备（资料标注）",
+          "route": "Hysteria2 · 需自行配置IPv6 · 不退款",
+          "kind": "paid-trial",
+          "stars": 4
+        }
+      ],
+      "image": {
+        "webp": "images/webp/06-feiniaoyun-飞鸟云.webp",
+        "jpg": "images/jpg/06-feiniaoyun-飞鸟云.jpg"
+      }
+    },
+    {
+      "id": "miaomiao-cloud",
+      "order": 7,
+      "name": "秒秒云",
+      "emoji": "⏱️",
+      "headline": "14元128GB，按设备数量逐档选",
+      "intro": "秒秒云提供四档常规月付、年付特惠和不限时包，14元/月128GB支持3台设备。商店标注中转高速节点、流媒体与GPT支持，设备数量随档位变化。",
+      "focus": "中转节点 · 月付与备用 · 分档设备数量",
+      "audience": "月度流量较固定，希望把同时在线设备数量一起算清楚的用户。",
+      "advice": "日常先比较14元128GB与26元256GB。79元特惠为年付总价、每月68GB，不能与14元月付按同一种付款周期比较。",
+      "questions": [
+        "已收录套餐均注明特殊商品不退款。",
+        "按使用文档安装新版代理软件。",
+        "不限时100GB与300GB是一次性总量，不按月重置。"
+      ],
+      "route": "商店标注中转高速节点",
+      "client": "提供通用订阅与导入教程，按后台要求使用新版客户端。",
+      "featured": [
+        2,
+        3,
+        4,
+        0,
+        6,
+        7
+      ],
+      "referral_url": "https://dl2.mmy8.com/#/register?code=dUjEJXLh",
+      "source_note": "项目当前data/airports.json套餐资料；本次沿用已收录规格，未重新核价。",
+      "source_date": "2026-07-19",
+      "plans": [
+        {
+          "name": "68G/特惠套餐",
+          "price": 79,
+          "billing": "年付",
+          "traffic": "68GB/月",
+          "devices": "2台",
+          "route": "中转高速节点 · 多流媒体/GPT解锁 · 不退款",
+          "kind": "annual",
+          "stars": 2
+        },
+        {
+          "name": "200G/特惠套餐",
+          "price": 170,
+          "billing": "年付",
+          "traffic": "200GB/月",
+          "devices": "4台",
+          "route": "中转高速节点 · 多流媒体/GPT解锁 · 不退款",
+          "kind": "annual",
+          "stars": 2
+        },
+        {
+          "name": "128G/月-探花",
+          "price": 14,
+          "billing": "月付起",
+          "traffic": "128GB/月",
+          "devices": "3台",
+          "route": "中转高速节点 · 多流媒体/GPT解锁 · 不退款",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "256G/月-榜眼",
+          "price": 26,
+          "billing": "月付起",
+          "traffic": "256GB/月",
+          "devices": "6台",
+          "route": "中转高速节点 · 多流媒体/GPT解锁 · 不退款",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "512G/月-状元",
+          "price": 49,
+          "billing": "月付起",
+          "traffic": "512GB/月",
+          "devices": "9台",
+          "route": "中转高速节点 · 多流媒体/GPT解锁 · 不退款",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "1024G/月-大学士",
+          "price": 98,
+          "billing": "月付起",
+          "traffic": "1024GB/月",
+          "devices": "12台",
+          "route": "中转高速节点 · 多流媒体/GPT解锁 · 不退款",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "不限时间100G",
+          "price": 99,
+          "billing": "一次性",
+          "traffic": "100GB用完为止",
+          "devices": "3台",
+          "route": "中转高速节点 · 多流媒体/GPT解锁 · 不退款",
+          "kind": "one-time",
+          "stars": 5
+        },
+        {
+          "name": "不限时间300G",
+          "price": 268,
+          "billing": "一次性",
+          "traffic": "300GB用完为止",
+          "devices": "5台",
+          "route": "中转高速节点 · 多流媒体/GPT解锁 · 不退款",
+          "kind": "one-time",
+          "stars": 4
+        }
+      ],
+      "image": {
+        "webp": "images/webp/07-miaomiao-秒秒云.webp",
+        "jpg": "images/jpg/07-miaomiao-秒秒云.jpg"
+      }
+    },
+    {
+      "id": "wgetcloud",
+      "order": 8,
+      "name": "WgetCloud",
+      "emoji": "💎",
+      "headline": "老牌高端方向，99元月付起",
+      "intro": "WgetCloud属于老牌高端机场方向，价格明显高于低价方案。个人月付99元起，档位在流量、速率、节点权限、在线IP与连接数上有区别，适合预算充足且重视这些配置的用户。",
+      "focus": "高端专线方向 · 在线IP限制 · 价格较高",
+      "audience": "预算充足，愿意为专线、节点权限与服务配置支付更高月费的用户。",
+      "advice": "先比较99元基础、109元优质与119元精品月付。团队年付预付金额很高，先按授权用途和在线IP规则核对，避免把团队名称当作可任意共享。",
+      "questions": [
+        "资料标注禁止多人共享且新疆地区不可用，团队授权规则需单独确认。",
+        "在线IP数量、连接数与设备数量不是同一指标。",
+        "付款手续费、2FA设置与售后支持范围需核对。"
+      ],
+      "route": "资料收录IEPL / IPLC专线方向，节点等级随套餐变化",
+      "client": "支持Clash等常见订阅客户端，注册或首次登录可能需要设置2FA。",
+      "featured": [
+        0,
+        1,
+        2
+      ],
+      "referral_url": "https://invite.wgetcloud.ltd/auth/register?code=fZ0Rsm",
+      "source_note": "项目当前data/airports.json套餐资料；本次沿用已收录规格，未重新核价。",
+      "source_date": "2026-08-07",
+      "plans": [
+        {
+          "name": "基础专线服务",
+          "price": 99,
+          "billing": "月付起，可按月购买",
+          "traffic": "230GB/月，30天重置",
+          "devices": "3个在线IP / 300连接数",
+          "route": "15个基础节点 · 200Mbps · 主流流媒体解锁",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "优质专线服务",
+          "price": 109,
+          "billing": "月付起，可按月购买",
+          "traffic": "250GB/月，30天重置",
+          "devices": "4个在线IP / 800连接数",
+          "route": "15个优质节点 · 300Mbps · 全球流媒体与AI",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "精品专线服务",
+          "price": 119,
+          "billing": "月付起，可按月购买",
+          "traffic": "270GB/月，30天重置",
+          "devices": "5个在线IP / 1500连接数",
+          "route": "全球29节点 · 500Mbps · SLA专线高可用",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "精品团队套餐-M",
+          "price": 10464,
+          "billing": "年付",
+          "traffic": "2880GB/月，30天重置",
+          "devices": "20个在线IP / 6000连接数",
+          "route": "全球29节点 · 1500Mbps · SLA专线高可用",
+          "kind": "annual",
+          "stars": 2
+        },
+        {
+          "name": "精品团队套餐-L",
+          "price": 15200,
+          "billing": "年付",
+          "traffic": "5760GB/月，30天重置",
+          "devices": "40个在线IP / 12000连接数",
+          "route": "全球29节点 · 2000Mbps · SLA专线高可用",
+          "kind": "annual",
+          "stars": 2
+        }
+      ],
+      "image": {
+        "webp": "images/webp/08-wgetcloud-WgetCloud.webp",
+        "jpg": "images/jpg/08-wgetcloud-WgetCloud.jpg"
+      }
+    },
+    {
+      "id": "jisu-cloud",
+      "order": 9,
+      "name": "极速云",
+      "emoji": "🍃",
+      "headline": "看标称额度，也要计算6倍倍率",
+      "intro": "极速云已有代表月付方案从15.99元起，标称1200GB。资料标注6倍倍率时，实际可传输量约为200GB，因此要把倍率、设备数量和付款周期放在一起比较。",
+      "focus": "标称大额度 · 6倍倍率 · 分档设备限制",
+      "audience": "能理解流量倍率，愿意先计算可传输流量再选套餐的用户。",
+      "advice": "15.99元1200GB按6倍折合约200GB/月、3台设备；22元1800GB折合约300GB/月、5台设备。选择当前节点时仍要看实时倍率。",
+      "questions": [
+        "6倍是扣费倍率，不是速度提高6倍。",
+        "年付150元为全年总价；不限时88元1000GB为标称总量。",
+        "下表来自已有代表套餐记录，并非当前商店全部套餐。"
+      ],
+      "route": "当前具体线路类型未完整收录；已有资料标注6倍流量倍率",
+      "client": "资料收录v2rayN、Karing、Clash Verge、Hiddify，按后台订阅格式导入。",
+      "featured": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "referral_url": "https://qa.slnioaykrfm.com:8888/#/register?code=y739TBai",
+      "source_note": "data/data_0719.txt概况与既有v11、v15代表套餐记录；本次未重新核价。",
+      "source_date": "2026-07-19",
+      "plans": [
+        {
+          "name": "月付1200G",
+          "price": 15.99,
+          "billing": "月付",
+          "traffic": "1200GB标称/月，按6倍约200GB可传输/月",
+          "devices": "3台",
+          "route": "6倍扣流量（已有资料标注）",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "月付1800G",
+          "price": 22,
+          "billing": "月付",
+          "traffic": "1800GB标称/月，按6倍约300GB可传输/月",
+          "devices": "5台",
+          "route": "6倍扣流量（已有资料标注）",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "月付3500G",
+          "price": 39.99,
+          "billing": "月付",
+          "traffic": "3500GB标称/月，按6倍约583.3GB可传输/月",
+          "devices": "8台",
+          "route": "6倍扣流量（已有资料标注）",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "年付1500G",
+          "price": 150,
+          "billing": "年付",
+          "traffic": "1500GB标称/月，共12个月，按6倍约250GB可传输/月",
+          "devices": "5台",
+          "route": "6倍扣流量（已有资料标注）",
+          "kind": "annual",
+          "stars": 2
+        },
+        {
+          "name": "不限时1000G",
+          "price": 88,
+          "billing": "一次性",
+          "traffic": "1000GB标称总量，按6倍约166.7GB可传输总量",
+          "devices": "现有资料未注明",
+          "route": "6倍扣流量（已有资料标注）",
+          "kind": "one-time",
+          "stars": 5
+        }
+      ],
+      "image": {
+        "webp": "images/webp/09-jisu-极速云.webp",
+        "jpg": "images/jpg/09-jisu-极速云.jpg"
+      }
+    },
+    {
+      "id": "mojie",
+      "order": 10,
+      "name": "魔戒机场",
+      "emoji": "💍",
+      "headline": "19.9元130GB起，按量不限时",
+      "intro": "魔戒采用一次性流量包模式，常规套餐19.9元130GB起。页面标注流量用完为止、不按月重置、无节点倍率，适合低频使用和备用需求。",
+      "focus": "按量不限时 · 无倍率标注 · 小额备用",
+      "audience": "使用频率不固定，希望流量用完再续的用户。",
+      "advice": "常规起步看19.9元130GB，再按实际用量比较29.9元210GB或52元420GB。1元1GB是付费体验总量，不作为常规订阅起价。",
+      "questions": [
+        "相同套餐可能覆盖原有流量，购买前确认叠加规则。",
+        "不限时描述不等于服务商保证永久运营。",
+        "客户端、协议和设备规则以当前会员中心为准。"
+      ],
+      "route": "页面标注按量、无倍率；具体线路类型需确认",
+      "client": "当前资料未完整列出客户端与协议清单，先核对后台教程。",
+      "featured": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "referral_url": "https://74.82.196.10:8000/register?aff=edcgk25C",
+      "source_note": "项目当前data/airports.json套餐资料；本次沿用已收录规格，未重新核价。",
+      "source_date": "2026-10-08",
+      "plans": [
+        {
+          "name": "1G体验流量",
+          "price": 1,
+          "billing": "一次性",
+          "traffic": "1GB用完为止",
+          "devices": "不限（页面标注）",
+          "route": "按量计费 · 无倍率 · 不可续费",
+          "kind": "paid-trial",
+          "stars": 4
+        },
+        {
+          "name": "130G不限时",
+          "price": 19.9,
+          "billing": "一次性",
+          "traffic": "130GB用完为止",
+          "devices": "不限（页面标注）",
+          "route": "按量计费 · 无倍率 · 支持流媒体",
+          "kind": "one-time",
+          "stars": 5
+        },
+        {
+          "name": "210G不限时",
+          "price": 29.9,
+          "billing": "一次性",
+          "traffic": "210GB用完为止",
+          "devices": "不限（页面标注）",
+          "route": "按量计费 · 无倍率 · 支持流媒体",
+          "kind": "one-time",
+          "stars": 4
+        },
+        {
+          "name": "420G不限时",
+          "price": 52,
+          "billing": "一次性",
+          "traffic": "420GB用完为止",
+          "devices": "不限（页面标注）",
+          "route": "按量计费 · 无倍率 · 支持流媒体",
+          "kind": "one-time",
+          "stars": 4
+        },
+        {
+          "name": "750G不限时",
+          "price": 85,
+          "billing": "一次性",
+          "traffic": "750GB用完为止",
+          "devices": "不限（页面标注）",
+          "route": "按量计费 · 无倍率 · 支持流媒体",
+          "kind": "one-time",
+          "stars": 4
+        },
+        {
+          "name": "1660G不限时",
+          "price": 179,
+          "billing": "一次性",
+          "traffic": "1660GB用完为止",
+          "devices": "不限（页面标注）",
+          "route": "按量计费 · 无倍率 · 支持流媒体",
+          "kind": "one-time",
+          "stars": 4
+        },
+        {
+          "name": "3600G不限时",
+          "price": 330,
+          "billing": "一次性",
+          "traffic": "3600GB用完为止",
+          "devices": "不限（页面标注）",
+          "route": "按量计费 · 无倍率 · 支持流媒体",
+          "kind": "one-time",
+          "stars": 4
+        },
+        {
+          "name": "5500G不限时",
+          "price": 500,
+          "billing": "一次性",
+          "traffic": "5500GB用完为止",
+          "devices": "不限（页面标注）",
+          "route": "按量计费 · 无倍率 · 支持流媒体",
+          "kind": "one-time",
+          "stars": 4
+        },
+        {
+          "name": "10T不限时",
+          "price": 888,
+          "billing": "一次性",
+          "traffic": "10240GB用完为止",
+          "devices": "不限（页面标注）",
+          "route": "按量计费 · 无倍率 · 支持流媒体",
+          "kind": "one-time",
+          "stars": 4
+        }
+      ],
+      "image": {
+        "webp": "images/webp/10-mojie-魔戒机场.webp",
+        "jpg": "images/jpg/10-mojie-魔戒机场.jpg"
+      }
+    },
+    {
+      "id": "dage-cloud",
+      "order": 11,
+      "name": "大哥云",
+      "emoji": "🧭",
+      "headline": "Trojan订阅，月付、季付与年付分开比",
+      "intro": "大哥云提供月付、季付与年付方案，19.9元/月100GB起。资料使用Trojan协议，收录500Mbps、1000Mbps档位及IPLC相关说明，适合需要通用订阅和周期方案的用户。",
+      "focus": "Trojan · 周期套餐 · 分档流量",
+      "audience": "持续使用、希望比较月付与季度流量配置的用户。",
+      "advice": "先看19.9元100GB或29.9元150GB月付；69元是整个季度总价，每月200GB。88元VIP1是全年总价，但每月仅15GB。",
+      "questions": [
+        "现有资料没有不限时或一次性包，不列入按量机场比较。",
+        "设备数量、完整节点地区和退款条件需下单前确认。",
+        "标注速率是套餐参数，不等于每次都能达到的实测速率。"
+      ],
+      "route": "Trojan协议，资料提及IPLC，具体节点权限需核对",
+      "client": "提供Trojan通用订阅，确认客户端内核支持及导入格式。",
+      "featured": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "referral_url": "https://aff01.zygbx.com/#/register?code=w0qPQH8R",
+      "source_note": "项目当前data/airports.json套餐资料；本次沿用已收录规格，未重新核价。",
+      "source_date": "2026-07-31",
+      "plans": [
+        {
+          "name": "单月套餐 A",
+          "price": 19.9,
+          "billing": "月付",
+          "traffic": "100GB/月（按自然月）",
+          "devices": "以服务页面为准",
+          "route": "500Mbps · Trojan",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "单月套餐 B",
+          "price": 29.9,
+          "billing": "月付",
+          "traffic": "150GB/月（按自然月）",
+          "devices": "以服务页面为准",
+          "route": "500Mbps · Trojan",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "季付套餐 A",
+          "price": 69,
+          "billing": "季付",
+          "traffic": "200GB/月（90天）",
+          "devices": "以服务页面为准",
+          "route": "1000Mbps · Trojan",
+          "kind": "quarterly",
+          "stars": 4
+        },
+        {
+          "name": "VIP1 小流量",
+          "price": 88,
+          "billing": "年付",
+          "traffic": "15GB/月（365天）",
+          "devices": "以服务页面为准",
+          "route": "500Mbps · Trojan",
+          "kind": "annual",
+          "stars": 2
+        },
+        {
+          "name": "年付套餐 A",
+          "price": 199,
+          "billing": "年付",
+          "traffic": "300GB/月（365天）",
+          "devices": "以服务页面为准",
+          "route": "1000Mbps · Trojan",
+          "kind": "annual",
+          "stars": 2
+        },
+        {
+          "name": "年付套餐 B",
+          "price": 299,
+          "billing": "年付",
+          "traffic": "500GB/月（365天）",
+          "devices": "以服务页面为准",
+          "route": "1000Mbps · Trojan",
+          "kind": "annual",
+          "stars": 2
+        },
+        {
+          "name": "年付套餐 1000GB",
+          "price": 699,
+          "billing": "年付",
+          "traffic": "1000GB/月（365天）",
+          "devices": "以服务页面为准",
+          "route": "1000Mbps · Trojan",
+          "kind": "annual",
+          "stars": 2
+        }
+      ],
+      "image": {
+        "webp": "images/webp/11-dage-大哥云.webp",
+        "jpg": "images/jpg/11-dage-大哥云.jpg"
+      }
+    },
+    {
+      "id": "yangfanyun",
+      "order": 12,
+      "name": "扬帆云",
+      "emoji": "⛵",
+      "headline": "通用订阅，按节点权限逐档比较",
+      "intro": "扬帆云采用通用V2Ray订阅，19.99元月付100GB/周期起。当前套餐记录中LV3标注部分IEPL、LV4标注全IEPL，适合同时关注设备数、线路权限和流量的用户。",
+      "focus": "V2Ray通用订阅 · 分档专线 · 设备数量明确",
+      "audience": "希望使用常见客户端，并按流量与专线权限逐档选择的用户。",
+      "advice": "入门先看19.99元LV1；关注已收录专线权限时，比较39.99元LV3和49.99元LV4。不限时方案只见文字介绍，未录入可核对价格，不用来计算起步价。",
+      "questions": [
+        "概况资料提及IPLC，而套餐条目具体标注IEPL，购买时确认当前节点权限。",
+        "套餐流量保留原记录的“每周期”单位，重置方式向后台确认。",
+        "现有明确价格均为月付，不补写未提供价格的不限时包。"
+      ],
+      "route": "套餐记录LV3部分IEPL、LV4全IEPL；概况的IPLC说法需另核对",
+      "client": "资料收录Clash、Shadowrocket等通用客户端，按后台协议要求配置。",
+      "featured": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "referral_url": "https://ml.yfqz1.net/register?code=mzd1CVsd",
+      "source_note": "项目当前data/airports.json套餐资料；本次沿用已收录规格，未重新核价。",
+      "source_date": "2026-08-23",
+      "plans": [
+        {
+          "name": "LV1",
+          "price": 19.99,
+          "billing": "月付",
+          "traffic": "100GB/周期",
+          "devices": "2台设备",
+          "route": "全球节点 · 标准节点 · 200Mbps",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "LV2",
+          "price": 29.99,
+          "billing": "月付",
+          "traffic": "200GB/周期",
+          "devices": "3台设备",
+          "route": "全球节点 · 标准节点 · 300Mbps",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "LV3",
+          "price": 39.99,
+          "billing": "月付",
+          "traffic": "400GB/周期",
+          "devices": "4台设备",
+          "route": "全球节点 · 部分 IEPL 专线 · 500Mbps",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "LV4",
+          "price": 49.99,
+          "billing": "月付",
+          "traffic": "700GB/周期",
+          "devices": "6台设备",
+          "route": "全球节点 · 全 IEPL 专线 · 2Gbps",
+          "kind": "monthly",
+          "stars": 5
+        },
+        {
+          "name": "旗舰版·大流量",
+          "price": 88.99,
+          "billing": "月付",
+          "traffic": "1.2TB/周期",
+          "devices": "8台设备",
+          "route": "全球节点 · 不限速 · 适合重度用户",
+          "kind": "monthly",
+          "stars": 5
+        }
+      ],
+      "image": {
+        "webp": "images/webp/12-yangfan-扬帆云.webp",
+        "jpg": "images/jpg/12-yangfan-扬帆云.jpg"
+      }
+    }
+  ]
+}
